@@ -1,2 +1,3 @@
-# Guided-Project---Extracting-and-Visualizing-Stock-Data-IBM
+# Guided Assigment - Extracting and Visualizing Stock Data
+
 Guided Data Analysis Project IBM
